@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>samochód</item>
+        <item>komputer</item>
+        <item>programowanie</item>
+        <item>teleinformatyka</item>
+        <item>uczelnia</item>
+        <item>inteligencja</item>
+        <item>przyjaciel</item>
+        <item>książka</item>
+        <item>naukowiec</item>
+        <item>matematyka</item>
+        <item>informatyka</item>
+        <item>algorytm</item>
+        <item>czekolada</item>
+        <item>samolot</item>
+        <item>mechanika</item>
+        <item>robotyka</item>
+        <item>programista</item>
+        <item>studia</item>
+        <item>system</item>
+        <item>internet</item>
+    </string-array>
+</resources>

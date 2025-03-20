@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="start_text">Let\'s start!</string>
+    <string name="used_letters">Used letters</string>
+    <string name="enter_letter">Enter letter</string>
+    <string name="check">Check letter</string>
+    <string name="won_text">Gratulacje! Odgadłeś słowo: %s</string>
+    <string name="lost_text">Niestety, przegrałeś. Prawidłowe słowo to: %s</string>
+</resources>
